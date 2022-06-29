@@ -7,7 +7,7 @@
     "voicechat", 
     "telegram"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "repository": "https://github.com/brqso/muisc",
   "stack": "container",
   "buildpacks": [
    {
